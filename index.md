@@ -3,4 +3,8 @@
 ```python
 print("Adding code to the markdown")
 ```
+- [x] Created the repository
+- [ ] Added the header
+- [ ] Added the image
+
 
